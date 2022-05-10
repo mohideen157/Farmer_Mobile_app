@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/nicev3mobileapp/BuildConfig.java
+ com.example.nicev3mobileapp.BuildConfig

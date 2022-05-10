@@ -1,0 +1,33 @@
+btn background -color: 849542
+color: #fffff
+
+----------------------------------
+
+keypad background color :595959
+keypad back arrow background :d9d9d9
+
+https://codepen.io/andybarefoot/pen/PBPrex
+
+https://proxyof2.com/type/torrents/
+
+
+$git init
+$git add .
+$git  commit -m "first comment"
+
+
+$ git remote add origin https://gitlab.com/logikoof/mdm-patna.git
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8KVEYO458Ps"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+
+
+
+hotel reservation mobile app design
+-------------------------------------------
+https://interfacemarket.com/ui-kits/chicago-restaurants-app-ui-kit
+
+https://www.uistore.design/items/whoooa-free-customizable-vector-illustrations/

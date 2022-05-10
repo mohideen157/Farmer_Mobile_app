@@ -1,0 +1,4 @@
+#Sun Jan 02 19:35:11 IST 2022
+base.0=C\:\\Users\\mohid\\Desktop\\Logikoof Technologies\\nicev3mobileapp-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
